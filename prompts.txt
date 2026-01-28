@@ -1,0 +1,9 @@
+1. Why and when to use playwright than other tools?
+2. Why to use uv package manager if we already have pip ?
+3. what is the difference between sync playwright and async playwright ?
+4. How do I extract the data from multiple navigation item ?
+5. how do I extract the data that we want ?
+6. When extract the top 5 items from any site, why does it only extract 2 items?
+7. How to make auto-scroll to extrat the data from any pages of websites ?
+8. Can we add all the data from different navigation item into a single json file ?
+
